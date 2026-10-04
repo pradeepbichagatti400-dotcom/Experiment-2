@@ -1010,7 +1010,7 @@ The notebook performs the Python-based analysis of the processed benchmark resul
 
 # 17. Author
 
-## Zakiya Tahasildar
+## Pradeep Bichagatti
 
 **Cloud Computing Lab — Experiment 2**
 
