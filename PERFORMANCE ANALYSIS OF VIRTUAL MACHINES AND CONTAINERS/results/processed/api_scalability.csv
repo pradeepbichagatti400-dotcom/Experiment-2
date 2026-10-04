@@ -1,0 +1,9 @@
+system,workload,requests_per_second,latency_ms
+vm,1,2879.12,3.57
+vm,2,3009.0,16.66
+vm,4,3022.74,33.06
+vm,8,2709.11,73.7
+container,1,3317.02,3.15
+container,2,3897.71,12.86
+container,4,3760.39,26.6
+container,8,3341.97,59.75
