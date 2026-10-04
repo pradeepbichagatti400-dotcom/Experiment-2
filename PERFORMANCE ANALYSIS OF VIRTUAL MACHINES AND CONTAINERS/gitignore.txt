@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.env
+*.log
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+**/__pycache__/
+api/.venv/
+fio-test/testfile
