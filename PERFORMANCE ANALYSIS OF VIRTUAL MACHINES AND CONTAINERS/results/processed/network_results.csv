@@ -1,0 +1,5 @@
+system,test,gbits_per_sec
+vm,iperf3,84.3
+vm,iperf3_P4,259.0
+container,iperf3,82.0
+container,iperf3_P4,250.0

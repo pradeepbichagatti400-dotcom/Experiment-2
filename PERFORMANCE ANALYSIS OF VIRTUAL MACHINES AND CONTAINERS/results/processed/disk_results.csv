@@ -1,0 +1,9 @@
+system,operation,bandwidth,iops
+vm,seq-read,1134.0,1134.0
+vm,seq-write,864.0,864.0
+vm,random-read,36.6,9372.0
+vm,random-write,33.2,8489.0
+container,seq-read,1334.0,1334.0
+container,seq-write,1704.0,1703.0
+container,random-read,46.0,11800.0
+container,random-write,33.7,8632.0

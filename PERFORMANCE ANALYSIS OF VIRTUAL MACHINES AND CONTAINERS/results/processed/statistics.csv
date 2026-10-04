@@ -1,0 +1,7 @@
+benchmark,system,metric,mean,median,min,max,std
+cpu_results,vm,events_per_second,5522.523,5537.66,5392.76,5606.86,60.18743483670168
+cpu_results,container,events_per_second,5552.595,5575.49,5367.42,5586.52,66.62015815218562
+memory_results,vm,memory_mib_per_sec,66625.28600000001,68408.405,49831.38,79238.95,9780.814011904691
+memory_results,container,memory_mib_per_sec,46467.339,42684.405,37089.0,76107.66,11982.656248767264
+startup_results,vm,startup_ms,350.0,341.0,300.0,408.0,45.62345887808157
+startup_results,container,startup_ms,635.0,627.0,613.0,677.0,24.9098374141623

@@ -1,0 +1,9 @@
+system,threads,events_per_second
+vm,1,1364.43
+vm,2,2804.14
+vm,4,5607.29
+vm,8,5611.58
+container,1,1341.14
+container,2,2746.87
+container,4,5459.08
+container,8,5512.99

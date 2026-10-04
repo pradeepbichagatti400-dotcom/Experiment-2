@@ -1,0 +1,18 @@
+benchmark,test,metric,vm,container,container_minus_vm_percent
+CPU,Average,Events/sec,5522.52,5552.60,0.54
+Memory,Average,MiB/sec,66625.29,46467.34,-30.26
+Startup,Average,Milliseconds,350.00,635.00,81.43
+Disk,seq-read,MiB/sec,1134.00,1334.00,17.64
+Disk,seq-read,IOPS,1134.00,1334.00,17.64
+Disk,seq-write,MiB/sec,864.00,1704.00,97.22
+Disk,seq-write,IOPS,864.00,1703.00,97.11
+Disk,random-read,MiB/sec,36.60,46.00,25.68
+Disk,random-read,IOPS,9372.00,11800.00,25.91
+Disk,random-write,MiB/sec,33.20,33.70,1.51
+Disk,random-write,IOPS,8489.00,8632.00,1.68
+Network,iperf3,Gbits/sec,84.30,82.00,-2.73
+Network,iperf3_P4,Gbits/sec,259.00,250.00,-3.47
+Application,health,Requests/sec,2212.07,2496.18,12.84
+Application,health,Latency (ms),45.21,40.06,-11.38
+Application,compute,Requests/sec,34.94,30.84,-11.73
+Application,compute,Latency (ms),286.20,324.28,13.31

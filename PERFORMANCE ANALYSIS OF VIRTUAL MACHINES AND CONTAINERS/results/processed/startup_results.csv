@@ -1,0 +1,11 @@
+system,run,startup_ms
+vm,1,316.0
+vm,2,300.0
+vm,3,408.0
+vm,4,385.0
+vm,5,341.0
+container,1,622.0
+container,2,627.0
+container,3,613.0
+container,4,677.0
+container,5,636.0
