@@ -1,0 +1,28 @@
+VM CONFIGURATION
+
+Hypervisor:
+VMware Workstation
+
+Guest Operating System:
+Ubuntu
+
+CPU:
+4 vCPUs
+
+Memory:
+Approximately 4.8 GiB RAM
+
+Swap:
+4 GiB
+
+Network:
+VMware virtual network
+
+Purpose:
+The VM configuration was kept fixed throughout the VM benchmark experiments.
+
+Note:
+The lab manual recommends 8 GB RAM as an example controlled configuration.
+The actual VM used for this experiment had approximately 4.8 GiB RAM.
+Therefore, the memory benchmark workload was reduced to 2 GiB so that the workload remained feasible within the available VM memory.
+This deviation is documented in docs/methodology.md.
